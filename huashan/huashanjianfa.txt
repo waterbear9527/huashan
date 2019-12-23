@@ -1,4 +1,5 @@
 华山剑法
-edit by lyc
+<<<<<<< HEAD
+edit by new
 辟邪剑法
 新
